@@ -116,4 +116,4 @@ const checkQuestionTimeout = () => {
     setTimeout(checkQuestionTimeout, 60000);
 };
 
-client.login("MTIxMDYzMDE2Njk4OTI0MjQxOA.GsnL5u.EYHUHmFCPcCB7vbH7DRJSr56HhkEgQCVh31-G0");
+client.login("");
