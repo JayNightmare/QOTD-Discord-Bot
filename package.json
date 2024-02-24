@@ -1,0 +1,18 @@
+{
+  "name": "triviabot",
+  "version": "0.0.1",
+  "description": "A custom bot for Saba",
+  "main": "index.js",
+  "scripts": {
+    "test": "/test"
+  },
+  "keywords": [
+    "trivia"
+  ],
+  "author": "Jay",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  }
+}
